@@ -1,0 +1,10 @@
+[
+	{
+		"tokens": [ "el", "perro", "corre" ],
+		"token_ids": [ 101, 202, 303 ]
+	},
+	{
+		"tokens": [ "el", "gato", "duerme" ],
+		"token_ids": [ 101, 203, 304 ]
+	}
+]

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Diego Covarrubias/source/repos/w2vec/w2vec/out/build/x64-Debug",
+  "command": "E:\\code2\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:I\"C:\\Users\\Diego Covarrubias\\vcpkg\\installed\\x64-windows\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\prueba.dir\\prueba2.c.obj /FdCMakeFiles\\prueba.dir\\ /FS -c \"C:\\Users\\Diego Covarrubias\\source\\repos\\w2vec\\w2vec\\prueba2.c\"",
+  "file": "C:\\Users\\Diego Covarrubias\\source\\repos\\w2vec\\w2vec\\prueba2.c",
+  "output": "CMakeFiles\\prueba.dir\\prueba2.c.obj"
+}
+]

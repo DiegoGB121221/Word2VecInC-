@@ -1,0 +1,3 @@
+C:/Users/Diego Covarrubias/source/repos/w2vec/w2vec/out/build/x64-Debug/CMakeFiles/prueba.dir
+C:/Users/Diego Covarrubias/source/repos/w2vec/w2vec/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Diego Covarrubias/source/repos/w2vec/w2vec/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
